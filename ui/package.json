@@ -1,5 +1,5 @@
 {
-  "name": "@henriqueup/react-library/ui",
+  "name": "@henriqueup/react-ui",
   "version": "0.0.0",
   "description": "Part of a React library that contains the UI components",
   "main": "dist/index.js",
